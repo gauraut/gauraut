@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gauraut
 - 👀 I’m interested in Computer Vision, Deep Learning, ML, Engineering and Robotics
-- 🌱 I’m currently learning Machine Learning and some Computer Vision concepts
+- 🌱 I’m currently a Masters student at University of Maryland in the Robotics program
 - 📫 How to reach me : Twitter @gauraut
 
 <!---
