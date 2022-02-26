@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gauraut
-- 👀 I’m interested in Engineering and Robotics
+- 👀 I’m interested in Computer Vision, Deep Learning, ML, Engineering and Robotics
 - 🌱 I’m currently learning Machine Learning and some Computer Vision concepts
 - 📫 How to reach me : Twitter @gauraut
 
